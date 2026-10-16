@@ -1,0 +1,6 @@
+Segment (Illustrative),PD Band Low,PD Band High,Borrower Count,Portfolio Share %,Mean Predicted PD,Observed Default Rate,Calibration Error,95% CI Lower,95% CI Upper,Statistically Uncertain (n<30)
+Low Risk,0.0,0.05,1811,6.04,0.02189,0.01988,0.00201,0.01439,0.0274,False
+Medium-Low Risk,0.05,0.15,12165,40.55,0.09631,0.07431,0.022,0.06978,0.07911,False
+Medium-High Risk,0.15,0.3,8725,29.08,0.19981,0.19553,0.00428,0.18734,0.20399,False
+High Risk,0.3,0.6,4617,15.39,0.43687,0.42387,0.013,0.40968,0.43818,False
+Very High Risk,0.6,1.01,2682,8.94,0.74792,0.75802,0.01009,0.74145,0.77385,False
